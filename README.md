@@ -1,7 +1,7 @@
 # Qmessagebox
 
 
-<h1 style="color:blue">Geethika 212218104044</h1>
+<h2 style="color:blue">Geethika 212218104044</h2>
 
 # Output Screens
 
